@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        //月份轉換
+        //月份轉換
 //        Scanner scn=new Scanner(System.in);
 //        int a = scn.nextInt();
 //        switch (a) {
@@ -45,21 +45,25 @@ public class Main {
 //                System.out.println("December");
 //                break;}
 
-//        //季節判斷
-//        Scanner scn=new Scanner(System.in);
-//        String str=scn.next();
+        //季節判斷
+//        Scanner scn = new Scanner(System.in);
+//        String str = scn.next();
 //
-//        switch(str){
+//        switch (str) {
 //            case "Spring":
 //                System.out.println("2~4月");
+//                break;
 //            case "Summer":
 //                System.out.println("5~7月");
+//                break;
 //            case "Fall":
 //                System.out.println("8~11月");
+//                break;
 //            case "Winter":
 //                System.out.println("12~1月");
+//                break;
 
-        //奇數相加
+                //奇數相加
 //        Scanner scn=new Scanner(System.in);
 //        int a=scn.nextInt();
 //        int b=scn.nextInt();
@@ -69,7 +73,7 @@ public class Main {
 //            result=result+i;}
 //        System.out.println(result);
 
-        //偶數相加
+                //偶數相加
 //        Scanner scn=new Scanner(System.in);
 //        int a=scn.nextInt();
 //        int b=scn.nextInt();
@@ -79,9 +83,8 @@ public class Main {
 //                result=result+i;}
 //        System.out.println(result);
 
+        }
+
+
     }
-
-
-
 }
-
